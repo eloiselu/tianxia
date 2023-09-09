@@ -1,6 +1,7 @@
-# 天下3
-模仿天下3的游戏网站；
+# Tianxia 3
 
-页面非常漂亮；
+Imitating the website of the game "Tianxia 3."
 
-网站浏览链接： https://eloiselu.github.io/tianxia/
+The webpage is exceptionally beautiful.
+
+Website browsing link: https://eloiselu.github.io/tianxia/
